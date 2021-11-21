@@ -34,6 +34,7 @@ Coming Soon!
  - Enter ```cmd```
  - Type ```python main.py```
 
+https://i.imgur.com/VctS7pL.gif
 # Author
 - [**Alphalius**](https://github.com/Alphalius)
 
