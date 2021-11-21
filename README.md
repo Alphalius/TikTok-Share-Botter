@@ -34,7 +34,7 @@ Coming Soon!
  - Type ```python main.py```
 
 # Example
-![alt](https://i.imgur.com/VctS7pL.gif)
+![output](https://user-images.githubusercontent.com/80674770/142756923-adccae5f-d048-4ce5-b129-99e6a9c7e82d.gif)
 
 # Author
 - [**Alphalius**](https://github.com/Alphalius)
