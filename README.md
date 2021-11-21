@@ -32,6 +32,7 @@ Coming Soon!
  - Open the folder where the program is located
  - Enter ```cmd```
  - Type ```python main.py```
+
 ![output](https://user-images.githubusercontent.com/80674770/142756950-ad996c1e-f251-4557-b5f2-b458524d7d26.gif)
 
 # Example
