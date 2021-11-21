@@ -21,5 +21,5 @@
 # Donate
 You can donate to my PayPal at https://www.paypal.com/paypalme2/wodx <3
 
-#Support
-Join this server if you need help with anything: [discord.gg/alphalius](https://discord.gg/VW4Yty2Bz6)
+# Support
+Join this server if you need help with anything: [discord.gg/VW4Yty2Bz6](https://discord.gg/VW4Yty2Bz6)
