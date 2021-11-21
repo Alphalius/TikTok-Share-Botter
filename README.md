@@ -27,14 +27,15 @@ Coming Soon!
 # Setup
  - Make sure you have [Python](https://www.python.org/downloads) installed!
  - Open the ```setup.bat``` file and until it's finished.
-<br>
 
 # Usage
  - Open the folder where the program is located
  - Enter ```cmd```
  - Type ```python main.py```
 
-https://i.imgur.com/VctS7pL.gif
+# Example
+![alt](https://i.imgur.com/VctS7pL.gif)
+
 # Author
 - [**Alphalius**](https://github.com/Alphalius)
 
