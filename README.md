@@ -25,7 +25,7 @@ Coming Soon!
 <p align="center">Python tool that let's you bot shares to a TikTok video</p>
 
 # Setup
- - Make sure you have Python installed!
+ - Make sure you have [Python](https://www.python.org/downloads/) installed!
  - Run the following command
 ```python main.py```
  - \[**todo**\] Cross-platform support
