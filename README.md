@@ -25,7 +25,7 @@ Coming Soon!
 <p align="center">Python tool that let's you bot shares to a TikTok video</p>
 
 # Setup
- - Make sure you have [Python](https://www.python.org/downloads) installed!
+ - Make sure you have [Python](https://www.python.org/downloads) installed and PIP is added to PATH!
  - Open the ```setup.bat``` file and until it's finished.
 
 # Usage
@@ -33,7 +33,7 @@ Coming Soon!
  - Enter ```cmd```
  - Type ```python main.py```
 
-![output](https://user-images.githubusercontent.com/80674770/142756950-ad996c1e-f251-4557-b5f2-b458524d7d26.gif)
+![output](https://user-images.githubusercontent.com/80674770/142757248-ebf70457-2d52-4774-aee2-fda2f1994248.gif)
 
 # Example
 ![output](https://user-images.githubusercontent.com/80674770/142756923-adccae5f-d048-4ce5-b129-99e6a9c7e82d.gif)
