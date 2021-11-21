@@ -31,15 +31,11 @@ Coming Soon!
 
 # Usage
  - Open the folder where the program is located
- - Enter ``cmd```
+ - Enter ```cmd```
  - Type ```python main.py```
 
 # Author
-- **wodx**
-    - [Github](https://github.com/WodXTV)
-    - [Twitter](https://twitter.com/wodxgod)
-    - [Discord](https://discord.gg/BYjPFTs)
-    - [PayPal.me](https://www.paypal.com/paypalme2/wodx)
+- [**Alphalius**](https://github.com/Alphalius)
 
 # Donate
 You can donate to my PayPal at https://www.paypal.com/paypalme2/wodx <3
