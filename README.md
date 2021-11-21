@@ -13,6 +13,7 @@
 ![output](https://user-images.githubusercontent.com/80674770/142757248-ebf70457-2d52-4774-aee2-fda2f1994248.gif)
 
 # Preview
+![second](https://user-images.githubusercontent.com/80674770/142757936-abbb5c9d-93bb-439a-beb6-862b2e89ea54.gif)
 
 # Author
 - [**Alphalius**](https://github.com/Alphalius)
