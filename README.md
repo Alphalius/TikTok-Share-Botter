@@ -34,8 +34,6 @@ Coming Soon!
  - Enter ``cmd```
  - Type ```python main.py```
 
-<br>
-
 # Author
 - **wodx**
     - [Github](https://github.com/WodXTV)
