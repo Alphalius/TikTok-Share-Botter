@@ -27,7 +27,6 @@ Coming Soon!
 # Setup
  - Make sure you have [Python](https://www.python.org/downloads) installed!
  - Open the ```setup.bat``` file and until it's finished.
-
 <br>
 
 # Usage
