@@ -25,18 +25,15 @@ Coming Soon!
 <p align="center">Python tool that let's you bot shares to a TikTok video</p>
 
 # Setup
- - Make sure you have [Python](https://www.python.org/downloads/) installed!
- - Run the following command
-```python main.py```
- - \[**todo**\] Cross-platform support
+ - Make sure you have [Python](https://www.python.org/downloads) installed!
+ - Open the ```setup.bat``` file and until it's finished.
 
 <br>
 
-# How to use
- 1. Create a webhook on your Discord server. I recommend creating a new server.
- 2. Change the 'WEBHOOK_URL' variable value to your Discord webhook URL in [token-grabber.py](token-grabber.py)
- 3. *(obfuscate the code or install it as a backdoor in an other script.)*
- 4. Send the script to your victim and make them run it.
+# Usage
+ - Open the folder where the program is located
+ - Enter ``cmd```
+ - Type ```python main.py```
 
 <br>
 
