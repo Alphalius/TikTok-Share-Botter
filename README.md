@@ -31,6 +31,7 @@ Coming Soon!
 # Usage
  - Open the folder where the program is located
  - Enter ```cmd```
+ - ![output](https://user-images.githubusercontent.com/80674770/142756936-8a9fd5c9-3b47-41f7-bc2e-7e0f2ef25c74.gif)
  - Type ```python main.py```
 
 # Example
