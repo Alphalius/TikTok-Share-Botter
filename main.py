@@ -14,7 +14,7 @@ class TikTok:
             self.amount = int(input('> Desired Amount of Shares: '))
         except ValueError:
             print('\nInteger expected.')
-            os.system('title [TikTok Shares Botter] - Restart required')
+            os.system('title TikTok Share Botter - Restart required')
             os.system('pause >NUL')
             os._exit(0)
 
@@ -25,7 +25,7 @@ class TikTok:
                 '\nInvalid TikTok URL format.\nFormat expected: https://www.tiktok.com/@username/vi'
                 'deo/1234567891234567891'
             )
-            os.system('title [TikTok Shares Botter] - Restart required')
+            os.system('title TikTok Share Botter - Restart required')
             os.system('pause >NUL')
             os._exit(0)
         else:
@@ -101,6 +101,6 @@ class TikTok:
 
 
 if __name__ == '__main__':
-    os.system('cls && title [TikTok Shares Botter]')
+    os.system('cls && title TikTok Share Botter - Github: Alphalius')
     main = TikTok()
     main.multi_threading()
