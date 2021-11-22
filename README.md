@@ -3,7 +3,7 @@
 
 # Setup
  - Make sure you have [Python](https://www.python.org/downloads) installed and PIP is added to PATH!
- - Open the ```setup.bat``` file and until it's finished.
+ - Open the ```setup.bat``` file and wait until it's finished.
 
 # Usage
  - Open the folder where the program is located
