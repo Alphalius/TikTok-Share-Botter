@@ -1,11 +1,11 @@
 <h1 align="center"> 📈 TikTok Share Botter</h1>
 <p align="center">Python tool that let's you add a amount of shares to a TikTok tool</p>
 
-# Setup
+# 🏹 Setup
  - Make sure you have [Python](https://www.python.org/downloads) installed and PIP is added to PATH!
  - Open the ```setup.bat``` file and wait until it's finished.
 
-# Usage
+# 📈 Usage
  - Open the folder where the program is located
  - Enter ```cmd```
  - Type ```python main.py```
