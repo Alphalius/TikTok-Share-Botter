@@ -20,3 +20,6 @@
 
 # Support
 Join this server if you need help with anything: [discord.gg/VW4Yty2Bz6](https://discord.gg/VW4Yty2Bz6)
+
+# Credits
+Give credits to Alphalius if you use or fork this code.
