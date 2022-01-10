@@ -19,7 +19,7 @@
 - [**Alphalius**](https://github.com/Alphalius)
 
 # Support
-Join this server if you need help with anything: [discord.gg/VW4Yty2Bz6](https://discord.gg/VW4Yty2Bz6)
+Join this server if you need help with anything: [dsc.gg/xenos](https://dsc.gg/xenos)
 
 # Credits
 Give credits to Alphalius if you use or fork this code.
